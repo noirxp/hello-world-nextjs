@@ -5,6 +5,7 @@ export default function Home() {
 	  <center>
 	  <div>
 	    <h1>Hello, World!</h1>
+	    <SpeedInsights />
 	  </div>
 	  </center>
 	);
